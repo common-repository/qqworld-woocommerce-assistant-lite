@@ -1,0 +1,626 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QQWorld Assistant for WooCommercek\n"
+"Report-Msgid-Bugs-To: http://www.qqworld.org\n"
+"POT-Creation-Date: 2017-02-14 08:33+0800\n"
+"PO-Revision-Date: 2017-02-14 08:33+0800\n"
+"Last-Translator: Michael Wang <admin@qqworld.org>\n"
+"Language-Team: QQWorld <admin@qqworld.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: extension.php:54
+msgid "Edit"
+msgstr ""
+
+#: extension.php:56
+msgctxt "extension"
+msgid "Free"
+msgstr "免費"
+
+#: extension.php:58
+msgctxt "extension"
+msgid "$ Buy"
+msgstr "￥購買"
+
+#: extensions/brand-taxonomy.php:36
+msgctxt "extension"
+msgid "Brand Taxonomy"
+msgstr "品牌分類法"
+
+#: extensions/brand-taxonomy.php:37
+msgctxt "extension"
+msgid "The Brand Taxonomy of Products."
+msgstr "商品或産品的品牌分類法。"
+
+#: extensions/brand-taxonomy.php:53 extensions/brand-taxonomy.php:54
+msgid "Brands"
+msgstr "品牌"
+
+#: extensions/brand-taxonomy.php:54
+msgid "Brands Taxonomy of Product."
+msgstr "産品的品牌分類法。"
+
+#: extensions/brand-taxonomy.php:57 extensions/shipping-status.php:61
+msgid "Enabled"
+msgstr "開啓"
+
+#: extensions/brand-taxonomy.php:69
+msgid ""
+"Product brands for your store can be managed here. To display more brands "
+"here, click on \"screen options\" link on top of the page."
+msgstr ""
+"在這裏可以管理你的網店産品品牌。想顯示更多的欄目，請點擊頁面頂部的“顯示選"
+"項“。"
+
+#: extensions/brand-taxonomy.php:74
+msgid "Image"
+msgstr "圖像"
+
+#: extensions/brand-taxonomy.php:87 extensions/brand-taxonomy.php:110
+#: extensions/brand-taxonomy.php:128
+msgid "Thumbnail"
+msgstr "縮略圖"
+
+#: extensions/brand-taxonomy.php:99
+msgid "Choose an image"
+msgstr "選擇圖像"
+
+#: extensions/brand-taxonomy.php:100
+msgid "Use image"
+msgstr "使用圖像"
+
+#: extensions/brand-taxonomy.php:114 extensions/brand-taxonomy.php:133
+msgid "Upload/Add image"
+msgstr "上傳/添加圖像"
+
+#: extensions/brand-taxonomy.php:115 extensions/brand-taxonomy.php:134
+msgid "Remove image"
+msgstr "刪除圖片"
+
+#: extensions/brand-taxonomy.php:149
+msgctxt "taxonomy general name"
+msgid "Brands"
+msgstr "品牌"
+
+#: extensions/brand-taxonomy.php:150
+msgctxt "taxonomy singular name"
+msgid "Brand"
+msgstr "品牌"
+
+#: extensions/brand-taxonomy.php:154
+#, php-format
+msgid "Search %s"
+msgstr "搜索%s"
+
+#: extensions/brand-taxonomy.php:155
+#, php-format
+msgid "All %s"
+msgstr "全部%s"
+
+#: extensions/brand-taxonomy.php:156
+#, php-format
+msgid "Parent %s"
+msgstr "父%s"
+
+#: extensions/brand-taxonomy.php:157
+#, php-format
+msgid "Parent %s:"
+msgstr "父%s："
+
+#: extensions/brand-taxonomy.php:158
+#, php-format
+msgid "Edit %s"
+msgstr "編輯%s"
+
+#: extensions/brand-taxonomy.php:159
+#, php-format
+msgid "Update %s"
+msgstr "更新%s"
+
+#: extensions/brand-taxonomy.php:160
+#, php-format
+msgid "Add New %s"
+msgstr "添加新的%s"
+
+#: extensions/brand-taxonomy.php:161
+#, php-format
+msgid "New %s Name"
+msgstr "新%s名"
+
+#: extensions/chinization.php:16
+msgctxt "extension"
+msgid "Chinization"
+msgstr "中國本地化"
+
+#: extensions/chinization.php:17
+msgctxt "extension"
+msgid ""
+"Woocommerce address is not in conformity with the Chinese habit, this "
+"feature can adjust the items of address."
+msgstr ""
+"Woocommerce的地址設置不符合中國人的習慣，這個功能可以調整收貨地址的項目。"
+
+#: extensions/logistics-query.php:16
+msgctxt "extension"
+msgid "Logistics Query"
+msgstr "物流查詢"
+
+#: extensions/logistics-query.php:17
+msgctxt "extension"
+msgid "Query the logistics in customer's orders infomation."
+msgstr "在客戶的訂單中查詢物流信息。"
+
+#: extensions/shipping-status.php:24
+msgctxt "extension"
+msgid "Shipping Status"
+msgstr "送貨狀態"
+
+#: extensions/shipping-status.php:25
+msgctxt "extension"
+msgid "Add the order status of shipping."
+msgstr "添加送貨的訂單狀態。"
+
+#: extensions/shipping-status.php:33 extensions/shipping-status.php:43
+msgctxt "Order status"
+msgid "Delivered"
+msgstr "已發貨"
+
+#: extensions/shipping-status.php:38
+#, php-format
+msgid "Delivered <span class=\"count\">(%s)</span>"
+msgid_plural "Delivered <span class=\"count\">(%s)</span>"
+msgstr[0] "已發貨 <span class=\"count\">(%s)</span>"
+
+#: extensions/shipping-status.php:57 extensions/shipping-status.php:58
+msgid "Shipping Status"
+msgstr "送貨狀態"
+
+#: extensions/shipping-status.php:58
+msgid "Add shipping status to product order status."
+msgstr "添加送貨的産品訂單狀態。"
+
+#: qawc.php:54 qawc.php:55 qawc.php:96
+msgid "WooCommerce Assistant"
+msgstr "Woo電子商務助手"
+
+#: qawc.php:77
+msgid "Settings"
+msgstr "設置"
+
+#: qawc.php:94
+msgid "QQWorld WooCommerce Assistant Lite"
+msgstr "QQWorld WooCommerce助手精簡版"
+
+#: qawc.php:95
+msgid ""
+"QQWorld WooCommerce Assistant, including Brands Add-on, Shipping Add-on."
+msgstr "QQWorld WooCommerce助手，包含品牌、送貨等擴展設置。"
+
+#~ msgctxt "extension"
+#~ msgid "Please enter Activation Code."
+#~ msgstr "請輸入激活碼。"
+
+#~ msgctxt "extension"
+#~ msgid "Activated"
+#~ msgstr "已激活"
+
+#~ msgctxt "extension"
+#~ msgid "Inactive"
+#~ msgstr "未激活"
+
+#~ msgid "Address Habit"
+#~ msgstr "地址習慣"
+
+#~ msgctxt "address"
+#~ msgid "Name"
+#~ msgstr "姓名"
+
+#~ msgctxt "address"
+#~ msgid "Detail Address"
+#~ msgstr "詳細地址"
+
+#~ msgctxt "address"
+#~ msgid "Province / Municipality"
+#~ msgstr "省 / 直轄市"
+
+#~ msgctxt "address"
+#~ msgid "District"
+#~ msgstr "地區"
+
+#~ msgctxt "address"
+#~ msgid "Street"
+#~ msgstr "街道"
+
+#~ msgctxt "address"
+#~ msgid "Postcode"
+#~ msgstr "郵政編碼"
+
+#~ msgctxt "address"
+#~ msgid "Please select..."
+#~ msgstr "請選擇..."
+
+#~ msgctxt "address"
+#~ msgid "City"
+#~ msgstr "城市"
+
+#~ msgctxt "address"
+#~ msgid "Phone"
+#~ msgstr "電話 / 手機"
+
+#~ msgid "QQWorld WooCommerce Assistant"
+#~ msgstr "QQWorld WooCommerce助手"
+
+#~ msgctxt "extension"
+#~ msgid "Pay"
+#~ msgstr "付費"
+
+#~ msgid ""
+#~ "Woocommerce address is not in conformity with the Chinese habit, this "
+#~ "feature can adjust the order of address."
+#~ msgstr ""
+#~ "Woocommerce的地址設置不符合中國人的習慣，這個功能可以調整地址選項的順序。"
+
+#~ msgctxt "extension"
+#~ msgid "Enabled"
+#~ msgstr "啓用"
+
+#~ msgctxt "extension"
+#~ msgid ""
+#~ "Woocommerce address is not in conformity with the Chinese habit, this "
+#~ "feature can adjust the order of address."
+#~ msgstr ""
+#~ "Woocommerce的地址設置不符合中國人的習慣，這個功能可以調整地址選項的順序。"
+
+#~ msgid "Extension"
+#~ msgstr "擴展"
+
+#~ msgid "Taxonomies"
+#~ msgstr "分類法"
+
+#~ msgid ""
+#~ "QQWorld Assistant for WooCommerce, including Brands Add-on, more payment "
+#~ "methods."
+#~ msgstr "QQWorld的WooCommerce助手，包含品牌和更多的支付方式等功能。"
+
+#~ msgid "Payment"
+#~ msgstr "支付"
+
+#~ msgid "Payment Gateways"
+#~ msgstr "支付網關"
+
+#~ msgid "Alipay"
+#~ msgstr "支付寶"
+
+#~ msgid "Wepay"
+#~ msgstr "微信支付"
+
+#~ msgid "TenPay"
+#~ msgstr "財付通"
+
+#~ msgid "BaiduPay"
+#~ msgstr "百付寶"
+
+#~ msgid "Proceed to Alipay"
+#~ msgstr "到支付寶付款"
+
+#~ msgid ""
+#~ "Alipay is enabled, but the store currency is not set to Chinese Yuan. "
+#~ "Please <a href=\"%1s\">set the %2s against the Chinese Yuan exchange "
+#~ "rate</a>."
+#~ msgstr ""
+#~ "支付寶已啓用，但您的主貨幣不是人民幣，請<a href=\"%1s\">設置%2s轉人民幣的"
+#~ "彙率</a>."
+
+#~ msgid ""
+#~ "Alipay is a simple, secure and fast online payment method, customer can "
+#~ "pay via debit card, credit card or alipay balance."
+#~ msgstr ""
+#~ "支付寶是一個“簡單、安全、快速”的在線支付方式，客戶可以通過儲蓄卡、借記卡、"
+#~ "信用卡或支付寶余額等方式付款。"
+
+#~ msgid "Enable/Disable"
+#~ msgstr "啓用/禁用"
+
+#~ msgid "Enable Alipay Payment"
+#~ msgstr "啓用支付寶"
+
+#~ msgid "Title"
+#~ msgstr "標題"
+
+#~ msgid "This controls the title which the user sees during checkout."
+#~ msgstr "支付網關名稱，用戶結賬時顯示"
+
+#~ msgid "Description"
+#~ msgstr "支付網關描述"
+
+#~ msgid "This controls the description which the user sees during checkout."
+#~ msgstr "描述一下支付網關，用戶結賬時會看到"
+
+#~ msgid ""
+#~ "Pay via Alipay, if you don't have an Alipay account, you can also pay "
+#~ "with your debit card or credit card"
+#~ msgstr "使用支付寶付款，如果您沒有支付寶賬戶，也可通過借記卡或信用卡付款。"
+
+#~ msgid "Alipay Payment Gateway Type"
+#~ msgstr "支付接口"
+
+#~ msgid ""
+#~ "Please choose a payment method, note that the Dual requires a corporate "
+#~ "account"
+#~ msgstr "請選擇支付接口，注意即時到帳需要企業賬戶"
+
+#~ msgid "Escrow Payment"
+#~ msgstr "擔保交易"
+
+#~ msgid "Dual(Direct Payment + Escrow payment)"
+#~ msgstr "雙功能"
+
+#~ msgid "Direct Payment"
+#~ msgstr "即時到帳"
+
+#~ msgid "Partner ID"
+#~ msgstr "合作者身份ID"
+
+#~ msgid ""
+#~ "Please enter the partner ID<br />If you don't have one, <a href=\"https://"
+#~ "b.alipay.com/newIndex.htm\" target=\"_blank\">click here</a> to get."
+#~ msgstr ""
+#~ "請輸入合作者身份ID<br />如果您還沒有合作者身份ID，請點擊<a href=\"https://"
+#~ "b.alipay.com/newIndex.htm\" target=\"_blank\">這裏</a>獲取"
+
+#~ msgid "Security Key"
+#~ msgstr "交易安全校驗碼"
+
+#~ msgid ""
+#~ "Please enter the security key<br />If you don't have one, <a href="
+#~ "\"https://b.alipay.com/newIndex.htm\" target=\"_blank\">click here</a> to "
+#~ "get."
+#~ msgstr ""
+#~ "請輸入交易安全校驗碼<br />如果您還沒有交易安全校驗碼，請點擊<a href="
+#~ "\"https://b.alipay.com/newIndex.htm\" target=\"_blank\">這裏</a>獲取"
+
+#~ msgid "Alipay Account"
+#~ msgstr "支付寶賬戶"
+
+#~ msgid ""
+#~ "Please enter your Alipay account ( Email or Phone Number ); this is "
+#~ "needed in order to take payment."
+#~ msgstr "請輸入您用于收款的支付寶賬號（郵箱地址或手機號碼）"
+
+#~ msgid "Order No. Prefix"
+#~ msgstr "訂單號前綴"
+
+#~ msgid ""
+#~ "eg.WC-. If you <strong>use your Alipay account for multiple stores</"
+#~ "strong>, Please enter this prefix and make sure it is unique as Alipay "
+#~ "will not allow orders with the same merchant order number."
+#~ msgstr ""
+#~ "例如WC-。如果<strong>您的支付寶賬戶用于多個站點</strong>，請填寫該項並保證"
+#~ "前綴的唯一性，支付寶不允許一個賬戶中出現重複訂單號"
+
+#~ msgid "Submission method"
+#~ msgstr "數據提交方式"
+
+#~ msgid "Use form submission method."
+#~ msgstr "使用表單提交數據（POST方式）"
+
+#~ msgid ""
+#~ "Enable this to post order data to Alipay via a form instead of using a "
+#~ "redirect/querystring."
+#~ msgstr "選中該項後會使用表單提交的方式發送數據，否則使用地址重定向方式發送"
+
+#~ msgid "Preferred format for order title"
+#~ msgstr "訂單名稱格式"
+
+#~ msgid "Select your preferred order title format"
+#~ msgstr "請選擇訂單名稱格式"
+
+#~ msgid "Select the format of order title when making payment at Alipay"
+#~ msgstr "用戶在支付寶付款時會依據所選格式顯示訂單名稱"
+
+#~ msgid "Customer Full Name|#Order ID"
+#~ msgstr "客戶姓名|#訂單ID"
+
+#~ msgid "Name of the first Product|#Order ID"
+#~ msgstr "産品名稱|#訂單ID"
+
+#~ msgid "[Customer Full Name]'s Order From %s|#Order ID"
+#~ msgstr "[客戶姓名]在%s的訂單|#訂單ID"
+
+#~ msgid "Debug Log"
+#~ msgstr "調試信息"
+
+#~ msgid "Enable logging"
+#~ msgstr "記錄調試信息"
+
+#~ msgid ""
+#~ "Log Alipay events, such as trade status, inside <code>woocommerce/logs/"
+#~ "alipay.txt</code>"
+#~ msgstr ""
+#~ "記錄支付寶事件，例如訂單狀態變化，日志文件位于 <code>woocommerce/logs/"
+#~ "alipay.txt</code>"
+
+#~ msgid "Log Alipay events, such as trade status, inside <code>%s</code>"
+#~ msgstr "記錄支付寶事件，例如訂單狀態變化，日志文件位于<code>%s</code>"
+
+#~ msgid "Exchange Rate"
+#~ msgstr "彙率"
+
+#~ msgid ""
+#~ "Please set the %s against Chinese Yuan exchange rate, eg if your currency "
+#~ "is US Dollar, then you should enter 6.19"
+#~ msgstr "請設置%s轉人民幣的彙率，例如您的主貨幣是美元，請填寫6.19"
+
+#~ msgid "<p><strong>ERROR:</strong>The order ID doesn't match!</p>"
+#~ msgstr "<p><strong>錯誤:</strong>訂單ID不匹配</p>"
+
+#~ msgid "Your Alipay Trade No.: "
+#~ msgstr "您此次交易的支付寶交易號："
+
+#~ msgid "Payment received, awaiting fulfilment. "
+#~ msgstr "買家已付款, 等待賣家發貨. "
+
+#~ msgid "ERROR: Failed to send goods automatically for order %d, "
+#~ msgstr "出問題了: 訂單號爲%d的訂單無法自動發貨"
+
+#~ msgid "Your order has been shipped, awaiting buyer's confirmation"
+#~ msgstr "賣家已發貨, 等待買家確認收貨"
+
+#~ msgid ""
+#~ "Thank you for your order. We are now redirecting you to Alipay to make "
+#~ "payment."
+#~ msgstr "感謝您在本站購物，現在幫您轉到支付寶完成付款。"
+
+#~ msgid "Pay via Alipay"
+#~ msgstr "通過支付寶付款"
+
+#~ msgid "Cancel order &amp; restore cart"
+#~ msgstr "取消訂單&amp; 恢複購物車"
+
+#~ msgid ""
+#~ "Thank you for your order, please click the button below to pay with "
+#~ "Alipay."
+#~ msgstr "感謝您在本站下單，請點擊按鈕到支付寶付款"
+
+#~ msgid "Order received, awaiting payment. "
+#~ msgstr "訂單已收到, 待買家付款. "
+
+#~ msgid "Your order has been shipped, awaiting buyer's confirmation. "
+#~ msgstr "賣家已發貨, 等待買家確認收貨. "
+
+#~ msgid "Trade No. is not provided."
+#~ msgstr "請提供支付寶交易號"
+
+#~ msgid "cURL is not installed on this server"
+#~ msgstr "您的服務器未安裝CURL"
+
+#~ msgid " etc."
+#~ msgstr "等"
+
+#~ msgid "Order of %1s from %2s"
+#~ msgstr "%1s在%2s的訂單"
+
+#~ msgid "Your order from %s"
+#~ msgstr "您在%s的訂單"
+
+#~ msgid "Alipay Trade No.:"
+#~ msgstr "支付寶交易號："
+
+#~ msgid "Proceed to Wepay"
+#~ msgstr "使用微信支付"
+
+#~ msgid ""
+#~ "Wepay is a simple, secure and fast online payment method, customer can "
+#~ "pay via debit card, credit card or wepay balance."
+#~ msgstr ""
+#~ "微信支付是一種簡單、安全和快速的在線支付方式。用戶可以通過借記卡、信用卡或"
+#~ "微信錢包余額支付。"
+
+#~ msgid "Enable Wepay Payment"
+#~ msgstr "啓用微信支付"
+
+#~ msgid "Pay via Wepay, use your mobile device secure and fast to pay."
+#~ msgstr "通過微信錢包，使用你的移動設備安全便捷支付。"
+
+#~ msgid ""
+#~ "Please enter the APP ID<br />If you don't have one, <a href=\"https://mp."
+#~ "weixin.qq.com\" target=\"_blank\">click here</a> to get."
+#~ msgstr ""
+#~ "請輸入APP ID<br />如果你還沒有APP ID，<a href=\"https://mp.weixin.qq.com"
+#~ "\" target=\"_blank\">點擊這裏</a>獲取。"
+
+#~ msgid ""
+#~ "Please enter the APP Secret<br />If you don't have one, <a href=\"https://"
+#~ "mp.weixin.qq.com\" target=\"_blank\">click here</a> to get."
+#~ msgstr ""
+#~ "請輸入APP Secret<br />如果你還沒有APP Secret，<a href=\"https://mp.weixin."
+#~ "qq.com\" target=\"_blank\">點擊這裏</a>獲取。"
+
+#~ msgid "Merchant ID"
+#~ msgstr "微信支付商戶ID"
+
+#~ msgid ""
+#~ "Please enter your Wepay Merchant ID, this is needed in order to take "
+#~ "payment."
+#~ msgstr "請輸入您用于收款的微信商戶號。"
+
+#~ msgid "Red Packet"
+#~ msgstr "紅包"
+
+#~ msgid "Enable/Disable WeiXin Red Packet"
+#~ msgstr "啓用/禁用 微信紅包"
+
+#~ msgid "The order not exists."
+#~ msgstr "訂單不存在。"
+
+#~ msgid "Wepay Notification Request Failure"
+#~ msgstr "微信支付通知請求失敗。"
+
+#~ msgid ""
+#~ "Thank you for your order, please scan QR-Code below to pay with Wepay."
+#~ msgstr "感謝您在本站下單，請使用微信掃描二維碼進行付款。"
+
+#~ msgid "Wepay Trade No.:"
+#~ msgstr "微信支付交易號："
+
+#~ msgid "The input parameter is not correct"
+#~ msgstr "輸入參數不正確"
+
+#~ msgid "Order query failure"
+#~ msgstr "訂單查詢失敗"
+
+#~ msgid "QQWorld Assistant for WooCommerce"
+#~ msgstr "WooCommerce助手"
+
+#~ msgid "QQWorld Assistant for WooCommerce, including Brands Add-on."
+#~ msgstr "QQWorld的WooCommerce助手，包含品牌等功能。"
+
+#~ msgid ""
+#~ "Thank you for your order, please click the button below to pay with Wepay."
+#~ msgstr "感謝您在本站購物，現在幫您轉到微信支付完成付款。"
+
+#~ msgid "WePay Payment Mode"
+#~ msgstr "微信支付模式"
+
+#~ msgid "JSAPI Payment"
+#~ msgstr "公衆號支付(JSAPI)"
+
+#~ msgid "Native Payment"
+#~ msgstr "掃碼支付"
+
+#~ msgid ""
+#~ "Please enter the Secret<br />If you don't have one, <a href=\"https://mp."
+#~ "weixin.qq.com\" target=\"_blank\">click here</a> to get."
+#~ msgstr ""
+#~ "請輸入Secret<br />如果你還沒有Secret，<a href=\"https://mp.weixin.qq.com"
+#~ "\" target=\"_blank\">點擊這裏</a>獲取。"
+
+#~ msgid ""
+#~ "Please enter your Wepay Merchant, this is needed in order to take payment."
+#~ msgstr "請輸入您用于收款的微信商戶號。"
+
+#~ msgid "Wepay Merchant"
+#~ msgstr "微信支付商戶號"
+
+#~ msgid "AliPay"
+#~ msgstr "支付寶"
+
+#~ msgid "WePay"
+#~ msgstr "微信支付"
+
+#~ msgid "WeChatPay"
+#~ msgstr "微信支付"
+
+#~ msgid "QQWorld Assistant of WooCommerce"
+#~ msgstr "QQWorld的WooCommerce助手"
